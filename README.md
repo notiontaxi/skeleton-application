@@ -1,4 +1,4 @@
-# [Frequencies](http://notiontaxi.github.io/frequencies)
+#Skeleton application
 
-An online audio visualization tool
+
 
