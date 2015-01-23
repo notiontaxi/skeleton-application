@@ -44,6 +44,7 @@ require([], function() {
   var router = new Router()
   router.bindEvents()
   // currently always refer to one page
+  // if this is not working, check if there is a corresponding link on index.html
   router.navigate('music-player')
 
 })
